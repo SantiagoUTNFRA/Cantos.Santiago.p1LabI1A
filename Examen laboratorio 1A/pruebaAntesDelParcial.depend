@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1634661442 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+	"servicios.h"
+
+1634588911 c:\users\valen\desktop\utn\pruebaantesdelparcial\tipos.h
+
+1634588911 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1634660331 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1634660346 c:\users\valen\desktop\utn\pruebaantesdelparcial\mibiblioteca.h
+
+1634659698 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1634659775 c:\users\valen\desktop\utn\pruebaantesdelparcial\color.h
+
+1634583641 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1634583577 c:\users\valen\desktop\utn\pruebaantesdelparcial\servicios.h
+
+1634661409 c:\users\valen\desktop\utn\pruebaantesdelparcial\bicicleta.h
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+
+1634661409 source:c:\users\valen\desktop\utn\pruebaantesdelparcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+
+1634738632 source:c:\users\irlid\desktop\pruebaantesdelparcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+
+1634739267 c:\users\irlid\desktop\pruebaantesdelparcial\bicicleta.h
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+
+1634736020 c:\users\irlid\desktop\pruebaantesdelparcial\mibiblioteca.h
+
+1634734784 c:\users\irlid\desktop\pruebaantesdelparcial\tipos.h
+
+1634734189 c:\users\irlid\desktop\pruebaantesdelparcial\color.h
+
+1634733924 source:c:\users\irlid\desktop\pruebaantesdelparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1634739040 source:c:\users\irlid\desktop\pruebaantesdelparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+	"servicios.h"
+	"fecha.h"
+
+1634734241 c:\users\irlid\desktop\pruebaantesdelparcial\servicios.h
+
+1634739095 source:c:\users\irlid\desktop\pruebaantesdelparcial\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1634737388 source:c:\users\irlid\desktop\pruebaantesdelparcial\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1634738298 source:c:\users\irlid\desktop\pruebaantesdelparcial\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1634738247 source:c:\users\irlid\desktop\pruebaantesdelparcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1634734820 c:\users\irlid\desktop\pruebaantesdelparcial\fecha.h
+
+1634738632 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+
+1634739267 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\bicicleta.h
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+
+1634736020 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\mibiblioteca.h
+
+1634734784 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\tipos.h
+
+1634734189 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\color.h
+
+1634733924 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1634738247 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1634734820 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\fecha.h
+
+1634739040 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"miBiblioteca.h"
+	"tipos.h"
+	"color.h"
+	"servicios.h"
+	"fecha.h"
+
+1634734241 c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\servicios.h
+
+1634739176 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1634737388 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1634738298 source:c:\users\irlid\desktop\nueva carpeta (3)\examen laboratorio 1a\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
